@@ -33,7 +33,7 @@
     "LICENSE"
   ],
   "dependencies": {
-    "canvas": "^2.8.0",
+    "canvas": "^2.11.2",
     "commander": "^3.0.1"
   },
   "devDependencies": {
